@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
+
+https://iptv-org.github.io/epg/guides/pt/mi.tv.xml
+
+<channel id="AEBrazil.br"><display-name>A&amp;E Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AMCBrazil.br"><display-name>AMC Brazil</display-name><icon src="https://i.imgur.com/rpIAikI.png"/><url>https://mi.tv</url></channel>
+<channel id="AXNBrazil.br"><display-name>AXN Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AgroMais.br"><display-name>AgroMais</display-name><icon src="https://i.imgur.com/sFcOZeo.png"/><url>https://mi.tv</url></channel>
+<channel id="AmazonSat.br"><display-name>Amazon Sat</display-name><icon src="https://i.imgur.com/7rjCS5i.png"/><url>https://mi.tv</url></channel>
+<channel id="AnimalPlanetBrazil.br"><display-name>Animal Planet Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Arte1.br"><display-name>Arte 1</display-name><icon src="https://i.imgur.com/Ivnk7A6.png"/><url>https://mi.tv</url></channel>
+<channel id="BBCWorldNewsNorthAmerica.uk"><display-name>BBC World News North America</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="BabyTV.uk"><display-name>BabyTV</display-name><icon src="https://i.imgur.com/fvVovnc.png"/><url>https://mi.tv</url></channel>
+<channel id="BandAmazonas.br"><display-name>Band Amazonas</display-name><icon src="https://i.imgur.com/3wmmQm6.png"/><url>https://mi.tv</url></channel>
+<channel id="BandBahia.br"><display-name>Band Bahia</display-name><icon src="https://i.imgur.com/CFuGcIQ.png"/><url>https://mi.tv</url></channel>
+<channel id="BandCuritiba.br"><display-name>Band Curitiba</display-name><icon src="https://i.imgur.com/SOfcdFf.png"/><url>https://mi.tv</url></channel>
+<channel id="BandNews.br"><display-name>Band News</display-name><icon src="https://i.imgur.com/3YlJsCL.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSaoPaulo.br"><display-name>Band Sao Paulo</display-name><icon src="https://i.imgur.com/roCodnj.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSports.br"><display-name>Band Sports</display-name><icon src="https://i.imgur.com/EuPvzJe.png"/><url>https://mi.tv</url></channel>
+<channel id="Bis.br"><display-name>Bis</display-name><icon src="https://i.imgur.com/VUt1lmH.png"/><url>https://mi.tv</url></channel>
+<channel id="BoaVontadeTV.br"><display-name>Boa Vontade TV</display-name><icon src="https://i.imgur.com/Ms5tSgu.png"/><url>https://mi.tv</url></channel>
+<channel id="BoasNovas.br"><display-name>Boas Novas</display-name><icon src="https://i.imgur.com/ZqhizdP.png"/><url>https://mi.tv</url></channel>
+<channel id="BoomerangBrazil.br"><display-name>Boomerang Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CNNBrasil.br"><display-name>CNN Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalBrasil.br"><display-name>Canal Brasil</display-name><icon src="https://i.imgur.com/1MusQ5K.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalFutura.br"><display-name>Canal Futura</display-name><icon src="https://i.imgur.com/LgynEBC.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalOff.br"><display-name>Canal Off</display-name><icon src="https://i.imgur.com/1biaLgJ.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalRural.br"><display-name>Canal Rural</display-name><icon src="https://i.imgur.com/w9R9IIX.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalViva.br"><display-name>Canal Viva</display-name><icon src="https://i.imgur.com/uNHu40M.png"/><url>https://mi.tv</url></channel>
+<channel id="CanaldoBoi.br"><display-name>Canal do Boi</display-name><icon src="https://i.imgur.com/pVM5MhS.png"/><url>https://mi.tv</url></channel>
+<channel id="CartoonNetworkBrazil.br"><display-name>Cartoon Network Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ChefTV.br"><display-name>Chef TV</display-name><icon src="https://i.imgur.com/UYksTee.png"/><url>https://mi.tv</url></channel>
+<channel id="CineBrasilTV.br"><display-name>CineBrasil TV</display-name><icon src="https://i.imgur.com/n4qPuHG.png"/><url>https://mi.tv</url></channel>
+<channel id="CinemaxBrazil.br"><display-name>Cinemax Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ComedyCentralBrazil.br"><display-name>Comedy Central Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV1.br"><display-name>Conmebol TV 1</display-name><icon src="https://i.imgur.com/0MnTzFK.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV2.br"><display-name>Conmebol TV 2</display-name><icon src="https://i.imgur.com/AeQ1IRU.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV3.br"><display-name>Conmebol TV 3</display-name><icon src="https://i.imgur.com/i7czXKt.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV4.br"><display-name>Conmebol TV 4</display-name><icon src="https://i.imgur.com/GLX8MhD.png"/><url>https://mi.tv</url></channel>
+<channel id="Curta.br"><display-name>Curta!</display-name><icon src="https://i.imgur.com/Rwrh0zU.png"/><url>https://mi.tv</url></channel>
+<channel id="DWDeutsch.de"><display-name>DW Deutsch</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryChannelBrazil.br"><display-name>Discovery Channel Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryHomeHealthBrazil.br"><display-name>Discovery Home &amp; Health Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryKidsBrazil.br"><display-name>Discovery Kids Brazil</display-name><icon src="https://i.imgur.com/C0VEHXU.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryScienceBrazil.br"><display-name>Discovery Science Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTheaterBrazil.br"><display-name>Discovery Theater Brazil</display-name><icon src="https://i.imgur.com/T07gvEb.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTurboBrazil.br"><display-name>Discovery Turbo Brazil</display-name><icon src="https://i.imgur.com/WuOhLl4.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryWorldBrazil.br"><display-name>Discovery World Brazil</display-name><icon src="https://i.imgur.com/Yb3oUls.png"/><url>https://mi.tv</url></channel>
+<channel id="DisneyChannelBrazil.br"><display-name>Disney Channel Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/512px-Disney_channel_2019.png"/><url>https://mi.tv</url></channel>
+<channel id="DogTV.us"><display-name>Dog TV</display-name><icon src="https://i.imgur.com/dRKis0F.png"/><url>https://mi.tv</url></channel>
+<channel id="EBrazil.br"><display-name>E! Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="EPTVSuldeMinas.br"><display-name>EPTV Sul de Minas</display-name><icon src="https://i.imgur.com/fdJCLXo.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPN.us"><display-name>ESPN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPNBrazil.br"><display-name>ESPN Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPNExtraBrazil.br"><display-name>ESPN Extra Brazil</display-name><icon src="https://i.imgur.com/L7feQkn.png"/><url>https://mi.tv</url></channel>
+<channel id="Eurochannel.uk"><display-name>Eurochannel</display-name><icon src="https://i.imgur.com/yXAtmI6.png"/><url>https://mi.tv</url></channel>
+<channel id="FXBrazil.br"><display-name>FX Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FashionTVBrazil.br"><display-name>FashionTV Brazil</display-name><icon src="https://i.imgur.com/cZWKyuM.png"/><url>https://mi.tv</url></channel>
+<channel id="FilmArtsBrazil.br"><display-name>Film &amp; Arts Brazil</display-name><icon src="https://i.imgur.com/2kHUsl7.png"/><url>https://mi.tv</url></channel>
+<channel id="FishTV.br"><display-name>Fish TV</display-name><icon src="https://i.imgur.com/4h89JKx.png"/><url>https://mi.tv</url></channel>
+<channel id="FoodNetworkBrazil.br"><display-name>Food Network Brazil</display-name><icon src="https://i.imgur.com/6l7us9Y.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxNewsChannel.us"><display-name>Fox News Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSports2Brazil.br"><display-name>Fox Sports 2 Brazil</display-name><icon src="https://i.imgur.com/VbPBoYF.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSportsBrazil.br"><display-name>Fox Sports Brazil</display-name><icon src="https://i.imgur.com/xO5JwDQ.png"/><url>https://mi.tv</url></channel>
+<channel id="GNT.br"><display-name>GNT</display-name><icon src="https://i.imgur.com/XymcvMy.png"/><url>https://mi.tv</url></channel>
+<channel id="GloboNews.br"><display-name>GloboNews</display-name><icon src="https://i.imgur.com/3yZyaCm.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloob.br"><display-name>Gloob</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gloob_logo.png/512px-Gloob_logo.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloobinho.br"><display-name>Gloobinho</display-name><icon src="https://i.imgur.com/UWkHErt.png"/><url>https://mi.tv</url></channel>
+<channel id="HBO2Brazil.br"><display-name>HBO 2 Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOBrazil.br"><display-name>HBO Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOFamilyBrazil.br"><display-name>HBO Family Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOMundiBrazil.br"><display-name>HBO Mundi Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOPlusBrazil.br"><display-name>HBO+ Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOPopBrazil.br"><display-name>HBO Pop Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOSignatureBrazil.br"><display-name>HBO Signature Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOXtremeBrazil.br"><display-name>HBO Xtreme Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HGTVBrazil.br"><display-name>HGTV Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="History2Brazil.br"><display-name>History 2 Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HistoryBrazil.br"><display-name>History Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ISatBrazil.br"><display-name>I.Sat Brazil</display-name><icon src="https://i.imgur.com/37KIhdl.png"/><url>https://mi.tv</url></channel>
+<channel id="IdealTV.br"><display-name>Ideal TV</display-name><icon src="https://i.imgur.com/djoI9vz.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVAltoLitoral.br"><display-name>InterTV Alto Litoral</display-name><icon src="https://i.imgur.com/sLWYMEt.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVCabugi.br"><display-name>InterTV Cabugi</display-name><icon src="https://i.imgur.com/LP1tlVV.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVGrandeMinas.br"><display-name>InterTV Grande Minas</display-name><icon src="https://i.imgur.com/Z8Osi1Z.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVSerraPlusMar.br"><display-name>InterTV Serra+Mar</display-name><icon src="https://i.imgur.com/KnikgBV.png"/><url>https://mi.tv</url></channel>
+<channel id="InvestigationDiscoveryBrazil.br"><display-name>Investigation Discovery Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="JPNews.br"><display-name>JP News</display-name><icon src="https://i.imgur.com/AYO1U1u.png"/><url>https://mi.tv</url></channel>
+<channel id="LifetimeBrazil.br"><display-name>Lifetime Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Loading.br"><display-name>Loading</display-name><icon src="https://i.imgur.com/R0aflu1.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVBrazil.br"><display-name>MTV Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVLive.uk"><display-name>MTV Live</display-name><icon src="https://i.imgur.com/St5DhAU.png"/><url>https://mi.tv</url></channel>
+<channel id="MaisnaTela.br"><display-name>Mais na Tela</display-name><icon src="https://i.imgur.com/9MtbKve.png"/><url>https://mi.tv</url></channel>
+<channel id="Megapix.br"><display-name>Megapix</display-name><icon src="https://i.imgur.com/qTYv5jt.png"/><url>https://mi.tv</url></channel>
+<channel id="Multishow.br"><display-name>Multishow</display-name><icon src="https://i.imgur.com/bqVg8nT.png"/><url>https://mi.tv</url></channel>
+<channel id="MusicBoxBrazil.br"><display-name>Music Box Brazil</display-name><icon src="https://i.imgur.com/CDPCF2X.png"/><url>https://mi.tv</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World-Japan</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVBlumenau.br"><display-name>NSC TV Blumenau</display-name><icon src="https://i.imgur.com/AebFETD.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVChapeco.br"><display-name>NSC TV Chapeco</display-name><icon src="https://i.imgur.com/InuwvjC.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVCriciuma.br"><display-name>NSC TV Criciuma</display-name><icon src="https://i.imgur.com/gp3UISe.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVFlorianopolis.br"><display-name>NSC TV Florianopolis</display-name><icon src="https://i.imgur.com/0DtNyF1.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVJoinville.br"><display-name>NSC TV Joinville</display-name><icon src="https://i.imgur.com/G66BZyd.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicBrazil.br"><display-name>National Geographic Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickJrBrazil.br"><display-name>Nick Jr Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickelodeonBrazil.br"><display-name>Nickelodeon Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ParamountNetworkBrazil.br"><display-name>Paramount Network Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="PlayboyTVBrazil.br"><display-name>Playboy TV Brazil</display-name><icon src="https://i.imgur.com/k00nQ6l.png"/><url>https://mi.tv</url></channel>
+<channel id="PremiereClubes.br"><display-name>Premiere Clubes</display-name><icon src="https://i.imgur.com/3FyVsJz.png"/><url>https://mi.tv</url></channel>
+<channel id="PrimeBoxBrazil.br"><display-name>Prime Box Brazil</display-name><icon src="https://i.imgur.com/BMqSDNn.png"/><url>https://mi.tv</url></channel>
+<channel id="RBATV.br"><display-name>RBATV</display-name><icon src="https://i.imgur.com/ZWFxlU1.png"/><url>https://mi.tv</url></channel>
+<channel id="RBITV.br"><display-name>RBI TV</display-name><icon src="https://i.imgur.com/T1wU2HU.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVPortoAlegre.br"><display-name>RBS TV Porto Alegre</display-name><icon src="https://i.imgur.com/912IgbT.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVRS.br"><display-name>RBS TV RS</display-name><icon src="https://i.imgur.com/bPJgtCg.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVSantaMaria.br"><display-name>RBS TV Santa Maria</display-name><icon src="https://i.imgur.com/Dcu6Nd7.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVCuritiba.br"><display-name>RPC TV Curitiba</display-name><icon src="https://i.imgur.com/qdVFjKz.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVFozdoIguacu.br"><display-name>RPC TV Foz do Iguacu</display-name><icon src="https://i.imgur.com/pBJOLAj.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVMaringa.br"><display-name>RPC TV Maringa</display-name><icon src="https://i.imgur.com/cY67xOU.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVParanavai.br"><display-name>RPC TV Paranavai</display-name><icon src="https://i.imgur.com/dVJAWOS.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVPontaGrossa.br"><display-name>RPC TV Ponta Grossa</display-name><icon src="https://i.imgur.com/lqWkJSu.png"/><url>https://mi.tv</url></channel>
+<channel id="RTPiAmerica.pt"><display-name>RTPi America</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="RaiItaliaAmerica.it"><display-name>Rai Italia America</display-name><icon src="https://i.imgur.com/1nN4rEP.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTV.br"><display-name>RecordTV</display-name><icon src="https://i.imgur.com/sz9gTTr.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVBelem.br"><display-name>RecordTV Belem</display-name><icon src="https://i.imgur.com/gEEiN10.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVCabralia.br"><display-name>RecordTV Cabralia</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/25/RecordCabralia.jpg/512px-RecordCabralia.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVGoias.br"><display-name>RecordTV Goias</display-name><icon src="https://i.imgur.com/Fdoax1M.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVItapoan.br"><display-name>RecordTV Itapoan</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVMinas.br"><display-name>RecordTV Minas</display-name><icon src="https://i.imgur.com/6HT6QMV.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVPaulista.br"><display-name>RecordTV Paulista</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/20/Logotipo_da_RecordTV_Paulista.png/512px-Logotipo_da_RecordTV_Paulista.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRS.br"><display-name>RecordTV RS</display-name><icon src="https://i.imgur.com/JLQWoNc.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRio.br"><display-name>RecordTV Rio</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVSaoPaulo.br"><display-name>RecordTV Sao Paulo</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://mi.tv</url></channel>
+<channel id="Rede21.br"><display-name>Rede 21</display-name><icon src="https://i.imgur.com/ZddcZww.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonica.br"><display-name>Rede Amazonica</display-name><icon src="https://i.imgur.com/EjGPuLp.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonicaManaus.br"><display-name>Rede Amazonica Manaus</display-name><icon src="https://i.imgur.com/gQlABHP.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeBrasil.br"><display-name>Rede Brasil</display-name><icon src="https://i.imgur.com/TXJKwzZ.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeCNTRiodeJaneiro.br"><display-name>Rede CNT Rio de Janeiro</display-name><icon src="https://i.imgur.com/jcasAmw.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeFamilia.br"><display-name>Rede Familia</display-name><icon src="https://i.imgur.com/7KVFCrQ.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGenesis.br"><display-name>Rede Genesis</display-name><icon src="https://i.imgur.com/OIkpWMl.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGlobo.br"><display-name>Rede Globo</display-name><icon src="https://i.imgur.com/O02TF2r.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGospel.br"><display-name>Rede Gospel</display-name><icon src="https://i.imgur.com/mttSwgO.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeInternacionaldeTV.br"><display-name>Rede Internacional de TV</display-name><icon src="https://i.imgur.com/i2psU4x.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMassa.br"><display-name>Rede Massa</display-name><icon src="https://i.imgur.com/yFRqXIx.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMeioNorte.br"><display-name>Rede Meio Norte</display-name><icon src="https://i.imgur.com/KVdTi0M.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMinas.br"><display-name>Rede Minas</display-name><icon src="https://i.imgur.com/MtQWAHv.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeSeculo21.br"><display-name>Rede Seculo 21</display-name><icon src="https://i.imgur.com/vvrCWVo.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeSuper.br"><display-name>Rede Super</display-name><icon src="https://i.imgur.com/X75qTEm.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTV.br"><display-name>Rede TV!</display-name><icon src="https://i.imgur.com/ZJgD38F.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTVRondonia.br"><display-name>Rede TV! Rondonia</display-name><icon src="https://i.imgur.com/eQ0UhYw.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeVida.br"><display-name>Rede Vida</display-name><icon src="https://i.imgur.com/mP1qfp2.png"/><url>https://mi.tv</url></channel>
+<channel id="SBNTVInternational.us"><display-name>SBN TV International</display-name><icon src="https://i.imgur.com/NJu6oYB.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTMS.br"><display-name>SBT MS</display-name><icon src="https://i.imgur.com/VGcNcO8.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTNacional.br"><display-name>SBT Nacional</display-name><icon src="https://i.imgur.com/tc1ALuu.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTPara.br"><display-name>SBT Para</display-name><icon src="https://i.imgur.com/iV1Ib7L.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTRio.br"><display-name>SBT Rio</display-name><icon src="https://i.imgur.com/WLSauIE.png"/><url>https://mi.tv</url></channel>
+<channel id="SESCTV.br"><display-name>SESC TV</display-name><icon src="https://i.imgur.com/Mu8O6CV.png"/><url>https://mi.tv</url></channel>
+<channel id="SICInternacional.pt"><display-name>SIC Internacional</display-name><icon src="https://i.imgur.com/H0ZiaUd.png"/><url>https://mi.tv</url></channel>
+<channel id="SICTV.br"><display-name>SIC TV</display-name><icon src="https://i.imgur.com/mHxQyB2.png"/><url>https://mi.tv</url></channel>
+<channel id="Sextreme.br"><display-name>Sextreme</display-name><icon src="https://i.imgur.com/jWsW2Rd.png"/><url>https://mi.tv</url></channel>
+<channel id="SexyHot.br"><display-name>Sexy Hot</display-name><icon src="https://i.imgur.com/Fs8xVoY.png"/><url>https://mi.tv</url></channel>
+<channel id="SmithsonianChannelBrazil.br"><display-name>Smithsonian Channel Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"/><url>https://mi.tv</url></channel>
+<channel id="SonyChannelBrazil.br"><display-name>Sony Channel Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"/><url>https://mi.tv</url></channel>
+<channel id="SpaceBrazil.br"><display-name>Space Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV.br"><display-name>SporTV</display-name><icon src="https://i.imgur.com/eHJ8Vm3.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV2.br"><display-name>SporTV 2</display-name><icon src="https://i.imgur.com/pBiUnb2.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV3.br"><display-name>SporTV 3</display-name><icon src="https://i.imgur.com/mWOR8pi.png"/><url>https://mi.tv</url></channel>
+<channel id="StarChannelBrazil.br"><display-name>Star Channel Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StarLifeBrazil.br"><display-name>Star Life Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StudioUniversalBrazil.br"><display-name>Studio Universal Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
+<channel id="SyfyBrazil.br"><display-name>Syfy Brazil</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://mi.tv</url></channel>
+<channel id="TBSBrazil.br"><display-name>TBS Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TCMBrazil.br"><display-name>TCM Brazil</display-name><icon src="https://i.imgur.com/UUxM3yD.png"/><url>https://mi.tv</url></channel>
+<channel id="TLCBrazil.br"><display-name>TLC Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTBrazil.br"><display-name>TNT Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTSeriesBrazil.br"><display-name>TNT Series Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="TVACritica.br"><display-name>TV A Critica</display-name><icon src="https://i.imgur.com/j51rBro.png"/><url>https://mi.tv</url></channel>
+<channel id="TVALESP.br"><display-name>TV ALESP</display-name><icon src="https://i.imgur.com/snKVK5B.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAmapa.br"><display-name>TV Amapa</display-name><icon src="https://i.imgur.com/gw5BL3D.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAnhangueraGoiania.br"><display-name>TV Anhanguera Goiania</display-name><icon src="https://i.imgur.com/kSfg6Zb.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAntena10.br"><display-name>TV Antena 10</display-name><icon src="https://i.imgur.com/M4X95Uc.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAparecida.br"><display-name>TV Aparecida</display-name><icon src="https://i.imgur.com/kxrja0X.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAratu.br"><display-name>TV Aratu</display-name><icon src="https://i.imgur.com/LCETtuk.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaCeara.br"><display-name>TV Assembleia Ceara</display-name><icon src="https://i.imgur.com/UPa1tjs.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaMinasGerais.br"><display-name>TV Assembleia Minas Gerais</display-name><icon src="https://i.imgur.com/Q1lo8SG.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAtalaia.br"><display-name>TV Atalaia</display-name><icon src="https://i.imgur.com/9qp6rMK.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBahia.br"><display-name>TV Bahia</display-name><icon src="https://i.imgur.com/sJOrvHg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBrasil.br"><display-name>TV Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCaboBranco.br"><display-name>TV Cabo Branco</display-name><icon src="https://i.imgur.com/wcU9doO.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCamara.br"><display-name>TV Camara</display-name><icon src="https://i.imgur.com/Sdou1Ab.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCancaoNova.br"><display-name>TV Cancao Nova</display-name><icon src="https://i.imgur.com/OaM9hkH.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCapixaba.br"><display-name>TV Capixaba</display-name><icon src="https://i.imgur.com/C20HehI.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCeara.br"><display-name>TV Ceara</display-name><icon src="https://i.imgur.com/rvQucQg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCentroAmericaCuiaba.br"><display-name>TV Centro America Cuiaba</display-name><icon src="https://i.imgur.com/kRmHnnq.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeSaoLuiz.br"><display-name>TV Cidade Sao Luiz</display-name><icon src="https://i.imgur.com/5XyqVYI.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeVerdeCuiaba.br"><display-name>TV Cidade Verde Cuiaba</display-name><icon src="https://i.imgur.com/e67h04h.png"/><url>https://mi.tv</url></channel>
+<channel id="TVClube.br"><display-name>TV Clube</display-name><icon src="https://i.imgur.com/CpXjcyE.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCorreio.br"><display-name>TV Correio</display-name><icon src="https://i.imgur.com/FSnGAaZ.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCulturaNacional.br"><display-name>TV Cultura Nacional</display-name><icon src="https://i.imgur.com/hcApLfE.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDiario.br"><display-name>TV Diario</display-name><icon src="https://i.imgur.com/6ZNP8gs.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDifusoraSaoLuis.br"><display-name>TV Difusora Sao Luis</display-name><icon src="https://i.imgur.com/kQpZy8h.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEBahia.br"><display-name>TVE Bahia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEInternacionalAmerica.es"><display-name>TVE Internacional America</display-name><icon src="https://i.imgur.com/iODADvi.png"/><url>https://mi.tv</url></channel>
+<channel id="TVERS.br"><display-name>TVE RS</display-name><icon src="https://i.imgur.com/MQ6lJpS.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEmTempo.br"><display-name>TV Em Tempo</display-name><icon src="https://i.imgur.com/ByYTNPs.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEscola.br"><display-name>TV Escola</display-name><icon src="https://i.imgur.com/OF6aGQj.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGazeta.br"><display-name>TV Gazeta</display-name><icon src="https://i.imgur.com/0sksWse.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboBrasilia.br"><display-name>TV Globo Brasilia</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboNordeste.br"><display-name>TV Globo Nordeste</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboRiodeJaneiro.br"><display-name>TV Globo Rio de Janeiro</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboSaoPaulo.br"><display-name>TV Globo Sao Paulo</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGoianiaBand.br"><display-name>TV Goiania Band</display-name><icon src="https://i.imgur.com/6o62wCm.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGuara.br"><display-name>TV Guara</display-name><icon src="https://i.imgur.com/8PErNBT.png"/><url>https://mi.tv</url></channel>
+<channel id="TVHorizonte.br"><display-name>TV Horizonte</display-name><icon src="https://i.imgur.com/scZDeg3.png"/><url>https://mi.tv</url></channel>
+<channel id="TVIguacu.br"><display-name>TV Iguacu</display-name><icon src="https://i.imgur.com/huQVmra.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJangadeiro.br"><display-name>TV Jangadeiro</display-name><icon src="https://i.imgur.com/woBJeSn.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJornalCaruaru.br"><display-name>TV Jornal Caruaru</display-name><icon src="https://i.imgur.com/M8NilvY.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJustica.br"><display-name>TV Justica</display-name><icon src="https://i.imgur.com/rOQKiMO.png"/><url>https://mi.tv</url></channel>
+<channel id="TVNovoTempoBrasil.br"><display-name>TV Novo Tempo Brasil</display-name><icon src="https://i.imgur.com/cnTtf6I.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPajucara.br"><display-name>TV Pajucara</display-name><icon src="https://i.imgur.com/iYiGEBB.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPampa.br"><display-name>TV Pampa</display-name><icon src="https://i.imgur.com/Cnc1Mqo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVParanaTurismo.br"><display-name>TV Parana Turismo</display-name><icon src="https://i.imgur.com/I6pKoBd.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPontaNegra.br"><display-name>TV Ponta Negra</display-name><icon src="https://i.imgur.com/Ttl031F.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRaTimBum.br"><display-name>TV Ra Tim Bum</display-name><icon src="https://i.imgur.com/JIQwz0w.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRioSul.br"><display-name>TV Rio Sul</display-name><icon src="https://i.imgur.com/VA2MOK0.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRondonia.br"><display-name>TV Rondonia</display-name><icon src="https://i.imgur.com/56EhEkO.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSantaCruz.br"><display-name>TV Santa Cruz</display-name><icon src="https://i.imgur.com/Jyw5BB2.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSenado.br"><display-name>TV Senado</display-name><icon src="https://i.imgur.com/duy6waL.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSergipe.br"><display-name>TV Sergipe</display-name><icon src="https://i.imgur.com/Ut9qgoE.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSerraDourada.br"><display-name>TV Serra Dourada</display-name><icon src="https://i.imgur.com/NU741e5.png"/><url>https://mi.tv</url></channel>
+<channel id="TVT.br"><display-name>TVT</display-name><icon src="https://i.imgur.com/5dseJgw.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTribuna.br"><display-name>TV Tribuna</display-name><icon src="https://i.imgur.com/ZUz7aRd.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTropical.br"><display-name>TV Tropical</display-name><icon src="https://i.imgur.com/TD6ZJoa.png"/><url>https://mi.tv</url></channel>
+<channel id="TVUniaoFortaleza.br"><display-name>TV Uniao Fortaleza</display-name><icon src="https://i.imgur.com/Ec90iw0.png"/><url>https://mi.tv</url></channel>
+<channel id="TVVerdesMares.br"><display-name>TV Verdes Mares</display-name><icon src="https://i.imgur.com/wwy9HBt.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineAction.br"><display-name>Telecine Action</display-name><icon src="https://i.imgur.com/BHYWG0h.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineCult.br"><display-name>Telecine Cult</display-name><icon src="https://i.imgur.com/6GuHXnr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineFun.br"><display-name>Telecine Fun</display-name><icon src="https://i.imgur.com/MO2Ynki.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePipoca.br"><display-name>Telecine Pipoca</display-name><icon src="https://i.imgur.com/hW9JYXr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePremium.br"><display-name>Telecine Premium</display-name><icon src="https://i.imgur.com/uVFgIr8.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineTouch.br"><display-name>Telecine Touch</display-name><icon src="https://i.imgur.com/Nky0hRo.png"/><url>https://mi.tv</url></channel>
+<channel id="TelefeInternacional.ar"><display-name>Telefe Internacional</display-name><icon src="https://i.imgur.com/HNcCX3h.png"/><url>https://mi.tv</url></channel>
+<channel id="TerraViva.br"><display-name>Terra Viva</display-name><icon src="https://i.imgur.com/wnYsE3O.png"/><url>https://mi.tv</url></channel>
+<channel id="Tooncast.us"><display-name>Tooncast</display-name><icon src="https://i.imgur.com/3yXRbQy.png"/><url>https://mi.tv</url></channel>
+<channel id="TraceBrazuca.fr"><display-name>Trace Brazuca</display-name><icon src="https://i.imgur.com/DFBocPu.png"/><url>https://mi.tv</url></channel>
+<channel id="TravelBoxBrazil.br"><display-name>Travel Box Brazil</display-name><icon src="https://i.imgur.com/3tBJERH.png"/><url>https://mi.tv</url></channel>
+<channel id="UniversalTVBrazil.br"><display-name>Universal TV Brazil</display-name><icon src="https://i.imgur.com/Jt0B1Ac.png"/><url>https://mi.tv</url></channel>
+<channel id="UnivespTV.br"><display-name>Univesp TV</display-name><icon src="https://i.imgur.com/vsfBEhJ.png"/><url>https://mi.tv</url></channel>
+<channel id="VH1Europe.uk"><display-name>VH1 Europe</display-name><icon src="https://i.imgur.com/HoBlAml.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannelBrazil.br"><display-name>Warner Channel Brazil</display-name><icon src="https://i.imgur.com/t6GQq2p.png"/><url>https://mi.tv</url></channel>
+<channel id="WooHoo.br"><display-name>WooHoo</display-name><icon src="https://i.imgur.com/me622pa.png"/><url>https://mi.tv</url></channel>
+<channel id="ZooMoo.sg"><display-name>ZooMoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/><url>https://mi.tv</url></channel>
+<channel id="truTVBrazil.br"><display-name>truTV Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png"/><url>https://mi.tv</url></channel>
+
+
+https://i.mjh.nz/PlutoTV/
+
+  <channel id="5f120e94a5714d00074576a1">
+    <display-name>Pluto TV Cine Sucessos</display-name>
+    <icon src="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f120f41b7d403000783a6d6">
+    <display-name>Pluto TV Filmes Ação</display-name>
+    <icon src="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f12101f0b12f00007844c7c">
+    <display-name>Pluto TV Cine Comédia</display-name>
+    <icon src="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1210d14ae1f80007bafb1d">
+    <display-name>Pluto TV Cine Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f12111c9e6c2c00078ef3bb">
+    <display-name>Pluto TV Cine Terror</display-name>
+    <icon src="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f121262a189a800076b9386">
+    <display-name>Pluto TV Séries</display-name>
+    <icon src="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1212ad1728050007a523b8">
+    <display-name>Pluto TV Retrô</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1212fb81e85c00077ae9ef">
+    <display-name>MTV Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f12136385bccc00070142ed">
+    <display-name>Pluto TV Anime</display-name>
+    <icon src="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png"/>
+  </channel>
+  <channel id="5f1213ba0ecebc00070e170f">
+    <display-name>Pluto TV Natureza</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f12141b146d760007934ea7">
+    <display-name>Pluto TV Junior</display-name>
+    <icon src="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f121460b73ac6000719fbaf">
+    <display-name>Nick Jr. Club</display-name>
+    <icon src="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1214a637c6fd00079c652f">
+    <display-name>Pluto TV Kids</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f12151794c1800007a8ae63">
+    <display-name>Nick Clássico</display-name>
+    <icon src="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f171d3442a0500007362f22">
+    <display-name>Filmes Suspense</display-name>
+    <icon src="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f171f032cd22e0007f17f3d">
+    <display-name>Pluto TV Cine Família</display-name>
+    <icon src="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f171f988ab9780007fa95ea">
+    <display-name>Pluto TV Cine Romance</display-name>
+    <icon src="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1eed3c29b39600073e2ec0">
+    <display-name>Os Três Patetas</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f1ef1a8cec6be00072a7ac9">
+    <display-name>Pluto TV Documentários</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f32cf37c9ff2b00082adbc8">
+    <display-name>Pluto TV Investigação</display-name>
+    <icon src="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f32d2db0af67400077f29c4">
+    <display-name>Pluto TV Esportes</display-name>
+    <icon src="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f32d4d9ec194100070c7449">
+    <display-name>Pluto TV Vida Real</display-name>
+    <icon src="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f357e91b18f0b00073583d2">
+    <display-name>Comedy Central Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f36f2346ede750007332d11">
+    <display-name>Porta dos Fundos</display-name>
+    <icon src="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1602877726414.png"/>
+  </channel>
+  <channel id="5f4fb4cf605ddf000748e16f">
+    <display-name>Babyfirst</display-name>
+    <icon src="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f5141c1605ddf000748eb1b">
+    <display-name>FailArmy</display-name>
+    <icon src="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f515ebac01c0f00080e8439">
+    <display-name>The Pet Collective</display-name>
+    <icon src="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f516730b78b7600079294f5">
+    <display-name>Pluto TV Fashionstream</display-name>
+    <icon src="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f5a545d0dbf7f0007c09408">
+    <display-name>Pluto TV Filmes Nacionais</display-name>
+    <icon src="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f5c216df68f920007888315">
+    <display-name>O Reino Infantil</display-name>
+    <icon src="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f6108d8cc331900075e98e4">
+    <display-name>MTV Are you the One?</display-name>
+    <icon src="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f6df5a173d7340007c559f7">
+    <display-name>Naruto</display-name>
+    <icon src="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f6df6293a12e10007017396">
+    <display-name>A vida moderna de Rocko</display-name>
+    <icon src="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f997e44949bc70007a6941e">
+    <display-name>Turma da Mônica</display-name>
+    <icon src="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f99aad4e82db50007fac4b2">
+    <display-name>As  Pistas de Blue</display-name>
+    <icon src="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f9b05a99547eb0007676b02">
+    <display-name>Nosey Escândalos</display-name>
+    <icon src="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5fa15ad6367e170007cdd098">
+    <display-name>Pluto TV Ficção Científica</display-name>
+    <icon src="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5fa1612a669ba0000702017b">
+    <display-name>Pluto TV Cine Clássicos</display-name>
+    <icon src="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5fa97a8a75cc210007c9041d">
+    <display-name>Guia de Canais</display-name>
+    <icon src="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5fac52f142044f00078e2a51">
+    <display-name>Pluto TV Mistérios</display-name>
+    <icon src="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5fd1419a3b4f4b000773ba85">
+    <display-name>Tastemade</display-name>
+    <icon src="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5ff609de50ab210008025c1b">
+    <display-name>Tokusato</display-name>
+    <icon src="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5ff768b6a4c8b80008498610">
+    <display-name>BET Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5ffcc5130fd98c0007f2e216">
+    <display-name>Kenan &amp; Kel</display-name>
+    <icon src="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6001f3018502100007f528ac">
+    <display-name>Pluto TV Comédia</display-name>
+    <icon src="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png"/>
+  </channel>
+  <channel id="60072798dcf437000755b4f3">
+    <display-name>Paramount+ Apresenta</display-name>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6014761dfb91870008ea6463">
+    <display-name>Pluto TV Turbo</display-name>
+    <icon src="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png"/>
+  </channel>
+  <channel id="602e80c762306a0007179876">
+    <display-name>Jovem Pan Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6047fbdbbb776a0007e7f2ff">
+    <display-name>MTV Biggest Pop</display-name>
+    <icon src="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6047ff2e5e61cf000784e4da">
+    <display-name>MTV Spankin' New</display-name>
+    <icon src="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6048fc47a44e540007745d2b">
+    <display-name>RedeTV!</display-name>
+    <icon src="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png"/>
+  </channel>
+  <channel id="604a8dedbca75b0007b1c753">
+    <display-name>Pluto TV Paisagens por Stingray</display-name>
+    <icon src="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png"/>
+  </channel>
+  <channel id="604b79c558393100078faeef">
+    <display-name>Pluto TV Anime Ação</display-name>
+    <icon src="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"/>
+  </channel>
+  <channel id="604b91e0692f770007d9f33f">
+    <display-name>Pluto TV Shows por Stingray</display-name>
+    <icon src="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png"/>
+  </channel>
+  <channel id="604b99d633a72b00078e05ad">
+    <display-name>Pluto TV Karaokê por Stingray</display-name>
+    <icon src="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png"/>
+  </channel>
+  <channel id="605cc4de7ff3c50007be0f65">
+    <display-name>Pluto TV Geek e Tech</display-name>
+    <icon src="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6077045b6031bd00078de127">
+    <display-name>MasterChef</display-name>
+    <icon src="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6079c058aa05ac0007d10054">
+    <display-name>Jeannie é um Gênio</display-name>
+    <icon src="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6079c1539b05aa0007a57495">
+    <display-name>As Aventuras de Jackie Chan</display-name>
+    <icon src="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"/>
+  </channel>
+  <channel id="609ae66b359b270007869ff1">
+    <display-name>Comedy Central South Park</display-name>
+    <icon src="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png"/>
+  </channel>
+  <channel id="60a8126a0ac3970007f850fe">
+    <display-name>BET Being Mary Jane</display-name>
+    <icon src="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png"/>
+  </channel>
+  <channel id="60f5fabf0721880007cd50e3">
+    <display-name>Nick Teen</display-name>
+    <icon src="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png"/>
+  </channel>
+  <channel id="60f8841a4865da0007421177">
+    <display-name>Pluto TV Estilo de Vida</display-name>
+    <icon src="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6102e04e9ab1db0007a980a1">
+    <display-name>Pluto TV Record News</display-name>
+    <icon src="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61099df8cee03b00074b2ecf">
+    <display-name>O Encantador de Cães</display-name>
+    <icon src="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png"/>
+  </channel>
+  <channel id="613fd0043ffa39000736bb2b">
+    <display-name>Younger</display-name>
+    <icon src="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6144d088516ea8000739076a">
+    <display-name>FUEL TV</display-name>
+    <icon src="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61843f5e491af10007f7eefa">
+    <display-name>Pluto TV Minha Obsessão Favorita</display-name>
+    <icon src="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png"/>
+  </channel>
+  <channel id="619e6614c9d9650007a2b171">
+    <display-name>Euronews Português</display-name>
+    <icon src="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61a528267e1b8b0007357920">
+    <display-name>MTV Com o Ex</display-name>
+    <icon src="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61b790b985706b00072cb797">
+    <display-name>Pluto TV Adrenalina Freezone</display-name>
+    <icon src="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61bb72a7bf8c520007a8fd27">
+    <display-name>Pronto-socorro: Histórias De Emergência</display-name>
+    <icon src="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61f185ae10150a0007049e0c">
+    <display-name>Record TV</display-name>
+    <icon src="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61f1d27a189ed10007b7393e">
+    <display-name>Diff’rent Strokes Arnold</display-name>
+    <icon src="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61f2c6969fcc3800076ef8af">
+    <display-name>Rugrats</display-name>
+    <icon src="https://images.pluto.tv/channels/61f2c6969fcc3800076ef8af/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6202a7fcfb1b100008811f54">
+    <display-name>Nickelodeon Rocket Power</display-name>
+    <icon src="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62052d3b4eeb740007fbe125">
+    <display-name>O Homem que veio do Céu</display-name>
+    <icon src="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png"/>
+  </channel>
+  <channel id="620aca7a4d8ea4000778338a">
+    <display-name>Schitt's Creek</display-name>
+    <icon src="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png"/>
+  </channel>
+  <channel id="620d12a82e8ac50007c269c3">
+    <display-name>Os Arquivos do FBI</display-name>
+    <icon src="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png"/>
+  </channel>
+  <channel id="620d1512c7986a0007220213">
+    <display-name>Assombrações</display-name>
+    <icon src="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png"/>
+  </channel>
+  <channel id="620fdc7d8a36fc000710e3ba">
+    <display-name>MTV Jovens e Mães</display-name>
+    <icon src="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png"/>
+  </channel>
+  <channel id="620ff46e0a576e0007dc2f89">
+    <display-name>Nickelodeon iCarly</display-name>
+    <icon src="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62310f66d5888f0007534342">
+    <display-name>CBS News</display-name>
+    <icon src="https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6238c63deec07b000723dd77">
+    <display-name>Pluto TV Canal UOL</display-name>
+    <icon src="https://images.pluto.tv/channels/6238c63deec07b000723dd77/colorLogoPNG.png"/>
+  </channel>
+  <channel id="624b1c8d4321e200073ee421">
+    <display-name>One Piece</display-name>
+    <icon src="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png"/>
+  </channel>
+  <channel id="624f4e6bd5888f000754c53a">
+    <display-name>The Night Shift Plantão Noturno</display-name>
+    <icon src="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62545c0b002f4b0007688b61">
+    <display-name>Bob Esponja Calça Quadrada</display-name>
+    <icon src="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62545ed3dab4380007582f7c">
+    <display-name>Pluto TV Cine Comédia Romântica</display-name>
+    <icon src="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png"/>
+  </channel>
+  <channel id="625463563b8ddc0007134aeb">
+    <display-name>MTV Shore</display-name>
+    <icon src="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png"/>
+  </channel>
+  <channel id="625464a945b6a200079257d1">
+    <display-name>Death Note</display-name>
+    <icon src="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6254ac8f30665a00077ec182">
+    <display-name>Mestres do Ilusionismo</display-name>
+    <icon src="https://images.pluto.tv/channels/6254ac8f30665a00077ec182/colorLogoPNG.png"/>
+  </channel>
+  <channel id="626c2a3502d84a0007cec817">
+    <display-name>MTV Catfish</display-name>
+    <icon src="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6298bd10d88ef000073f16b7">
+    <display-name>Smithsonian Channel Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62b5c5a064163d0007b2efe6">
+    <display-name>Mistérios sem Solução</display-name>
+    <icon src="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62cd9e5a5c38c00007f5669a">
+    <display-name>Pluto TV Quebrando o Tabu</display-name>
+    <icon src="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62d969fd8451a30007f0fd94">
+    <display-name>Cocoricó</display-name>
+    <icon src="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62e010e6cd663f0007e57dc8">
+    <display-name>TV Cultura</display-name>
+    <icon src="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62e013a824f1bd0007a55631">
+    <display-name>The Ed Sullivan Show</display-name>
+    <icon src="https://images.pluto.tv/channels/62e013a824f1bd0007a55631/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62e01661a3e6270007f4ec9e">
+    <display-name>Pluto TV Gaming por Ubisoft</display-name>
+    <icon src="https://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62fd6b865a502400075b2caf">
+    <display-name>A Culpa é do Cabral</display-name>
+    <icon src="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png"/>
+  </channel>
+  <channel id="630e30ba3583440007c64a20">
+    <display-name>Pluto TV Fitness</display-name>
+    <icon src="https://images.pluto.tv/channels/630e30ba3583440007c64a20/colorLogoPNG.png"/>
+  </channel>
+  <channel id="631fa8dd7f25240007099a40">
+    <display-name>A Feiticeira</display-name>
+    <icon src="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png"/>
+  </channel>
+  <channel id="63221bafdc6e110007b50270">
+    <display-name>Oggy e as Baratas Tontas</display-name>
+    <icon src="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png"/>
+  </channel>
+  <channel id="63221e41af69b500076f84e7">
+    <display-name>Os Padrinhos Mágicos</display-name>
+    <icon src="https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"/>
+  </channel>
+  <channel id="633dc392e0282400071b0d39">
+    <display-name>Beyblade</display-name>
+    <icon src="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"/>
+  </channel>
+  <channel id="633dcebd80386500074a2461">
+    <display-name>Pluto TV Filmelier</display-name>
+    <icon src="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png"/>
+  </channel>
+  <channel id="633ee9ba83c08f00076b60a6">
+    <display-name>Pluto TV KFOOD</display-name>
+    <icon src="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png"/>
+  </channel>
